@@ -51,8 +51,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1 align="center">React-App</h1>
-      <h4 align="center">Import Data from CSV in Material Table</h4>
+      <h1 align="center">Tablespread</h1>
+      <h4 align="center">Import Data from CSV in Table</h4>
 
       <div className="file-input-container">
         <label htmlFor="file-upload" className="file-input-label">
